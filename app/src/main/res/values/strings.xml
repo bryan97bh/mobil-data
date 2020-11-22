@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Data App</string>
+    <string name="main_screen">Selecionar data</string>
+    <string name="screen2">Incrementar data</string>
+    <string name="screen3">Data</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="input_date">data</string>
+</resources>
